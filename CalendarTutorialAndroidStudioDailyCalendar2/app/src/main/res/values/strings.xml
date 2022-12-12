@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalendarTutorialAndroidStudio-DailyCalendar-2</string>
+
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="feb_2021">Feb 2021</string>
+</resources>
